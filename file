@@ -1,0 +1,7 @@
+def conv_(num):
+    calls = []
+    for i in range(cursor.execute(num)):
+        calls.append(cursor.fetchall())
+    calls = str(calls)
+    calls = int(calls[3:7])
+    return calls
